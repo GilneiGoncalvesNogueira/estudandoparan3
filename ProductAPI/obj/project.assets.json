@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Estudos\\estudandoparan3\\ProductAPI\\ProductAPI.csproj",
+      "projectUniqueName": "c:\\Users\\Administrador\\Documents\\Estudos\\Teste\\ProductAPI\\ProductAPI.csproj",
       "projectName": "ProductAPI",
-      "projectPath": "C:\\Users\\Administrador\\Documents\\Estudos\\estudandoparan3\\ProductAPI\\ProductAPI.csproj",
+      "projectPath": "c:\\Users\\Administrador\\Documents\\Estudos\\Teste\\ProductAPI\\ProductAPI.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Documents\\Estudos\\estudandoparan3\\ProductAPI\\obj\\",
+      "outputPath": "c:\\Users\\Administrador\\Documents\\Estudos\\Teste\\ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
